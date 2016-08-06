@@ -1,0 +1,38 @@
+_repo: Abraham-Lincoln--A-Play_11172
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: The Mask and Bauble Club of Georgetown University presents "Abraham Lincoln,"
+  by John Drinkwater, under the direction of Arthur Behrens by special arrangement
+  with Samuel French and Co.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Drama'
+- GITenberg
+title: 'Abraham Lincoln: A Play'
+url: http://www.gutenberg.org/ebooks/11172
