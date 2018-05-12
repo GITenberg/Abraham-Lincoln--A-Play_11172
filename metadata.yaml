@@ -1,5 +1,5 @@
 _repo: Abraham-Lincoln--A-Play_11172
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Bennett, Arnold
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '859'
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Drinkwater, John
@@ -22,6 +25,8 @@ creator:
 description: The Mask and Bauble Club of Georgetown University presents "Abraham Lincoln,"
   by John Drinkwater, under the direction of Arthur Behrens by special arrangement
   with Samuel French and Co.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11172#Abraham-Lincoln--A-Play
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
